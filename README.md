@@ -14,13 +14,11 @@ I am a Frontend Engineer, responsible for implementing visual elements that user
 
 #### Front-end
 ![](https://img.shields.io/badge/React-Framework-informational?style=flat-square&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Vue-Framework-informational?style=flat-square&logo=vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/HTML-Language-informational?style=flat-square&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CSS-Language-informational?style=flat-square&logo=css3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/LESS-Dialect-informational?style=flat-square&logo=less&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/SASS-Dialect-informational?style=flat-square&logo=sass&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/GSAP-Animations-informational?style=flat-square&logo=greensock&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Ant_Design-UI_Framework-informational?style=flat-square&logo=antdesign&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tailwind_UI-UI_Framework-informational?style=flat-square&logo=tailwindcss&logoColor=white&color=2bbc8a)
 
